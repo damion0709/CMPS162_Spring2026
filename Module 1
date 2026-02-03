@@ -11,3 +11,15 @@
 <body>
  <h1>Welcome to my website!</h1>
 Hello!<br>World!
+//Write a program that
+//1. asks for your birth year
+var yearString = prompt("What is your birth year?");
+console.log(yearString);
+//2. calculates someones age
+var yearNumber;
+//3. print the age to the console 
+// 4. also print if someone is 21 yet
+</script>
+</head>
+<body>
+</h1> Welcome to my website!</h1>
